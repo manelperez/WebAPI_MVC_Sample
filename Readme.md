@@ -3,8 +3,8 @@
 ===================================
 
 It has been developed on:
-	.NET Core SDK 2.1.6
-	SQL SERVER 2017 Express localdb
+- .NET Core SDK 2.1.6
+- SQL SERVER 2017 Express localdb
 
 Author
 ------
