@@ -1,0 +1,14 @@
+D:\Projectes\WepAPI_MVC_Sample\bin\Debug\netcoreapp2.1\WepAPI_MVC_Sample.deps.json
+D:\Projectes\WepAPI_MVC_Sample\bin\Debug\netcoreapp2.1\WepAPI_MVC_Sample.runtimeconfig.json
+D:\Projectes\WepAPI_MVC_Sample\bin\Debug\netcoreapp2.1\WepAPI_MVC_Sample.runtimeconfig.dev.json
+D:\Projectes\WepAPI_MVC_Sample\bin\Debug\netcoreapp2.1\WepAPI_MVC_Sample.dll
+D:\Projectes\WepAPI_MVC_Sample\bin\Debug\netcoreapp2.1\WepAPI_MVC_Sample.pdb
+D:\Projectes\WepAPI_MVC_Sample\obj\Debug\netcoreapp2.1\WepAPI_MVC_Sample.csproj.CoreCompileInputs.cache
+D:\Projectes\WepAPI_MVC_Sample\obj\Debug\netcoreapp2.1\WepAPI_MVC_Sample.RazorAssemblyInfo.cache
+D:\Projectes\WepAPI_MVC_Sample\obj\Debug\netcoreapp2.1\WepAPI_MVC_Sample.RazorAssemblyInfo.cs
+D:\Projectes\WepAPI_MVC_Sample\obj\Debug\netcoreapp2.1\WepAPI_MVC_Sample.AssemblyInfoInputs.cache
+D:\Projectes\WepAPI_MVC_Sample\obj\Debug\netcoreapp2.1\WepAPI_MVC_Sample.AssemblyInfo.cs
+D:\Projectes\WepAPI_MVC_Sample\obj\Debug\netcoreapp2.1\WepAPI_MVC_Sample.RazorTargetAssemblyInfo.cache
+D:\Projectes\WepAPI_MVC_Sample\obj\Debug\netcoreapp2.1\WepAPI_MVC_Sample.dll
+D:\Projectes\WepAPI_MVC_Sample\obj\Debug\netcoreapp2.1\WepAPI_MVC_Sample.pdb
+D:\Projectes\WepAPI_MVC_Sample\obj\Debug\netcoreapp2.1\WepAPI_MVC_Sample.csprojAssemblyReference.cache
